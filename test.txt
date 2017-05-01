@@ -1,3 +1,4 @@
-echo "Hi,I;m aster branch"
+echo "Hi,I'm master branch"
 
-echo "Hi,I;m aster branch"
+echo "Hi,I'm secondBranch"//make conflict
+
